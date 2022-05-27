@@ -1,0 +1,9 @@
+android.arch.lifecycle.AndroidViewModel
+android.arch.lifecycle.ViewModel
+android.arch.lifecycle.ViewModelProvider
+android.arch.lifecycle.ViewModelProvider$AndroidViewModelFactory
+android.arch.lifecycle.ViewModelProvider$Factory
+android.arch.lifecycle.ViewModelProvider$NewInstanceFactory
+android.arch.lifecycle.ViewModelStore
+android.arch.lifecycle.ViewModelStoreOwner
+android.arch.lifecycle.viewmodel.BuildConfig

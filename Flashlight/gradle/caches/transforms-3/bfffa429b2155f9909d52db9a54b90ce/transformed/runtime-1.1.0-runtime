@@ -1,0 +1,7 @@
+android.arch.lifecycle.BuildConfig
+android.arch.lifecycle.LifecycleRegistry
+android.arch.lifecycle.LifecycleRegistry$1
+android.arch.lifecycle.LifecycleRegistry$ObserverWithState
+android.arch.lifecycle.LifecycleRegistryOwner
+android.arch.lifecycle.ReportFragment
+android.arch.lifecycle.ReportFragment$ActivityInitializationListener
