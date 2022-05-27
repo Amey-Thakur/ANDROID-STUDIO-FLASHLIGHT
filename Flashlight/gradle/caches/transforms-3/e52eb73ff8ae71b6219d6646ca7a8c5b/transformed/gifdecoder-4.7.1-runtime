@@ -1,0 +1,8 @@
+com.bumptech.glide.gifdecoder.BuildConfig
+com.bumptech.glide.gifdecoder.GifDecoder
+com.bumptech.glide.gifdecoder.GifDecoder$BitmapProvider
+com.bumptech.glide.gifdecoder.GifDecoder$GifDecodeStatus
+com.bumptech.glide.gifdecoder.GifFrame
+com.bumptech.glide.gifdecoder.GifHeader
+com.bumptech.glide.gifdecoder.GifHeaderParser
+com.bumptech.glide.gifdecoder.StandardGifDecoder

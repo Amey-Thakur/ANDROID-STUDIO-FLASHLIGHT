@@ -1,0 +1,8 @@
+android.arch.lifecycle.LiveData
+android.arch.lifecycle.LiveData$1
+android.arch.lifecycle.LiveData$AlwaysActiveObserver
+android.arch.lifecycle.LiveData$LifecycleBoundObserver
+android.arch.lifecycle.LiveData$ObserverWrapper
+android.arch.lifecycle.MutableLiveData
+android.arch.lifecycle.Observer
+android.arch.lifecycle.livedata.core.BuildConfig

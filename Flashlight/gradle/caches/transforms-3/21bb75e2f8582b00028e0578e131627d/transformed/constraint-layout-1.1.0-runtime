@@ -1,0 +1,14 @@
+android.support.constraint.Barrier
+android.support.constraint.BuildConfig
+android.support.constraint.ConstraintHelper
+android.support.constraint.ConstraintLayout
+android.support.constraint.ConstraintLayout$LayoutParams
+android.support.constraint.ConstraintLayout$LayoutParams$Table
+android.support.constraint.ConstraintSet
+android.support.constraint.ConstraintSet$1
+android.support.constraint.ConstraintSet$Constraint
+android.support.constraint.Constraints
+android.support.constraint.Constraints$LayoutParams
+android.support.constraint.Group
+android.support.constraint.Guideline
+android.support.constraint.Placeholder

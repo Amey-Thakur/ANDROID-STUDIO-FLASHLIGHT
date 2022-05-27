@@ -1,0 +1,9 @@
+android.arch.core.internal.FastSafeIterableMap
+android.arch.core.internal.SafeIterableMap
+android.arch.core.internal.SafeIterableMap$1
+android.arch.core.internal.SafeIterableMap$AscendingIterator
+android.arch.core.internal.SafeIterableMap$DescendingIterator
+android.arch.core.internal.SafeIterableMap$Entry
+android.arch.core.internal.SafeIterableMap$IteratorWithAdditions
+android.arch.core.internal.SafeIterableMap$ListIterator
+android.arch.core.internal.SafeIterableMap$SupportRemove
