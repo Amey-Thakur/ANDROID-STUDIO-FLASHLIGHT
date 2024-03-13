@@ -1,9 +1,19 @@
 # ANDROID-STUDIO-FLASHLIGHT
+
  👉🏻 It is a simple Flashlight APK built in Android Studio in Java.
 
  - [X] **[Download APK](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT/blob/main/Flashlight.apk?raw=true)**
  
  - [X] **[Project Demo](https://youtu.be/83z8sHEzDC0)**
+
+
+## Authors
+  
+   - **[Amey Thakur](https://github.com/Amey-Thakur)**
+   
+   - **[Mega Satish](https://github.com/msatmod)**
+
+#
 
 ### Steps to build an APK file in Android Studio
 1. Open the project in Android Studio.
@@ -14,6 +24,6 @@
 
 ---
 
-<p align="center"> <b> 👉🏻 Created to Learn Android Studio  👈🏻 <b> </p>
+<p align="center"> <b> 👷 Project Authors: Amey Thakur and Mega Satish <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/ANDROID-STUDIO-CALCULATOR', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
