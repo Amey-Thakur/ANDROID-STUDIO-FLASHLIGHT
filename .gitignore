@@ -1,0 +1,31 @@
+# Gradle files
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
+.DS_Store
+/captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# Android Profiler
+*.hprof
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Internal Android files
+*.dex
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Log files
+*.log
