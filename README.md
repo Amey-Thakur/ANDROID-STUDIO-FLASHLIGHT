@@ -63,6 +63,7 @@ The LED control engine is governed by strict **computational design patterns** e
 
 > [!TIP]
 > **Hardware Precision Integration**
+>
 > We have engineered a **Hardware-Aware Controller** that calibrates LED activation across multiple API versions. The visual language focuses on the minimalist "Utility Core" aesthetic, ensuring maximum focus on the interactive light trajectory.
 
 ---
@@ -82,6 +83,7 @@ The LED control engine is governed by strict **computational design patterns** e
 
 > [!NOTE]
 > ### Interactive Polish: The Photonic Singularity
+>
 > We have engineered a **Hardware-Driven State Manager** that calibrates LED output across multiple vectors to simulate high-precision photonic transfer. The visual language focuses on the minimalist "Digital Lens" aesthetic, ensuring maximum focus on the interactive light trajectory.
 
 ### Tech Stack
