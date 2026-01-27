@@ -249,7 +249,7 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
 
   ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
-  **Computer Engineering (B.E.) - Mumbai University**
+  **Computer Engineering (B.E.) - University of Mumbai**
 
   *Semester-wise curriculum, laboratories, projects, and academic notes.*
 
