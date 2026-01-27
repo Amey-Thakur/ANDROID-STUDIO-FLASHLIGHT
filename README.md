@@ -110,21 +110,22 @@ ANDROID-STUDIO-FLASHLIGHT/
 │   ├── Filly.jpg                    # Companion (Filly)
 │   └── Mega.png                     # Profile Image (Mega Satish)
 │
-├── Source Code/                     # Primary Development Root
-│   └── Flashlight/                  # Android Project Directory
-│       ├── app/src/main/
-│       │   ├── java/                # Implementation Logic
-│       │   └── res/                 # UI Layouts & Graphic Assets
-│       └── build.gradle             # Build Configuration
+├── screenshots/                     # Project Visualization Gallery
+│   ├── 01-Main.jpg                  # Primary Application Interface
+│   └── 02-Active.jpg                # Real-time Hardware LED Activation
 │
-├── screenshots/                     # Visual Gallery
-│   ├── 01-Main.jpg
-│   └── 02-Active.jpg
+├── Source Code/                     # Primary Application Layer
+│   └── Flashlight/                  # Android Studio Project Root
+│       ├── app/                     # Main Application Module
+│       ├── gradle/                  # Build Configuration
+│       └── build.gradle             # Build Logic
 │
 ├── Flashlight.apk                   # Pre-compiled Executable
-├── codemeta.json                    # Software Metadata
-├── CITATION.cff                     # Academic Citation
-└── SECURITY.md                      # Security Policy
+├── SECURITY.md                      # Security Protocols
+├── CITATION.cff                     # Academic Citation Manifest
+├── codemeta.json                    # Metadata Standard
+├── LICENSE                          # MIT License (Verbatim)
+└── README.md                        # Project Entrance
 ```
 
 ---
