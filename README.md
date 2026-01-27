@@ -5,7 +5,7 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
-  [![Technology](https://img.shields.io/badge/Technology-Java%20%7C%20Android-blueviolet)](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT)
+  [![Technology](https://img.shields.io/badge/Technology-Java%20%7C%20Android-orange)](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT)
   [![Developed by Amey Thakur and Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT)
 
   A specialized utility leveraging the Android Camera2 API for precise hardware LED control, featuring a toggle-based interface and industrial-grade torch functionality.
