@@ -10,7 +10,13 @@
 
   A specialized utility leveraging the Android Camera2 API for precise hardware LED control, featuring a toggle-based interface and industrial-grade torch functionality.
 
-  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Video Walkthrough](https://youtu.be/83z8sHEzDC0)** &nbsp;·&nbsp; **[Download APK](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT/blob/main/Flashlight.apk?raw=true)**
+  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Video Demo](https://youtu.be/83z8sHEzDC0)** &nbsp;·&nbsp; **[Download APK](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT/blob/main/Flashlight.apk?raw=true)**
+
+  <br>
+
+  <a href="https://youtu.be/83z8sHEzDC0">
+    <img src="https://img.youtube.com/vi/83z8sHEzDC0/maxresdefault.jpg" alt="Video Demo" width="70%">
+  </a>
 
 </div>
 
@@ -130,9 +136,6 @@ ANDROID-STUDIO-FLASHLIGHT/
 | *Clean and responsive UI design.* | *Real-time hardware LED activation.* |
 
 </div>
-
-### 📺 Video Walkthrough
-[Watch the Demonstration on YouTube](https://youtu.be/83z8sHEzDC0)
 
 ---
 
