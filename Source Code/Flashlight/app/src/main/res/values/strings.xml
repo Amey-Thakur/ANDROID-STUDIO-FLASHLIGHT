@@ -1,3 +1,14 @@
+<!-- 
+    Android Studio Flashlight
+    
+    Developed by: Amey Thakur & Mega Satish
+    GitHub: https://github.com/Amey-Thakur | https://github.com/msatmod
+    Repository: https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT
+    
+    Description: String resource definitions for the Android Flashlight project.
+    
+    Release Date: May 27, 2022
+-->
 <resources>
     <string name="app_name">Flashlight</string>
     <string name="tv_text_title_ShakeThreshold">Shake Threshold</string>
@@ -5,7 +16,7 @@
     <string name="button_text_Settings">Settings</string>
     <string name="tv_text_heading_Settings">Settings</string>
     <string name="tv_text_explaination_st">How hard to shake to switch flashlight on?</string>
-    <string name="iv_contentDisc">Gif Image to show shake motion</string>
+    <string name="iv_contentDisc">State indicator for flashlight activity</string>
     <string name="switch_on_text">Switch On</string>
     <string name="switch_off_text">Switch Off</string>
 </resources>

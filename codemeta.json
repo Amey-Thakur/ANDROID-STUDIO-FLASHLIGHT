@@ -1,0 +1,37 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "Android Studio Flashlight",
+    "description": "A clean and functional Flashlight application built for Android using Java, featuring a toggle-based interface and Camera2 API integration for hardware LED control.",
+    "identifier": "ANDROID-STUDIO-FLASHLIGHT",
+    "license": "https://spdx.org/licenses/MIT.html",
+    "programmingLanguage": [
+        "Java",
+        "Android"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575"
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557"
+        }
+    ],
+    "dateReleased": "2022-05-27",
+    "codeRepository": "https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT",
+    "developmentStatus": "complete",
+    "applicationCategory": "Utilities / Mobile Application",
+    "keywords": [
+        "Flashlight",
+        "Android Studio",
+        "Java",
+        "Hardware Control",
+        "Mobile App"
+    ]
+}

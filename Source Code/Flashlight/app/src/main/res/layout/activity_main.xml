@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+    Android Studio Flashlight
+    
+    Developed by: Amey Thakur & Mega Satish
+    GitHub: https://github.com/Amey-Thakur | https://github.com/msatmod
+    Repository: https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT
+    
+    Description: Responsive UI design and layout geometry for the Android Flashlight project.
+    Utilizes a centered vertical orientation for ergonomic single-hand interaction.
+    
+    Release Date: May 27, 2022
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:id="@+id/relLayMain">
+
+    <!-- Flashlight Visual Indicator: Displays the current state of the LED hardware -->
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="250dp"
+        android:layout_height="450dp"
+        android:layout_gravity="center"
+        android:src="@drawable/flashoff"
+        android:contentDescription="@string/iv_contentDisc" />
+
+    <!-- Control Interface: Toggle button for hardware activation -->
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/btnbg"
+        android:fontFamily="cursive"
+        android:onClick="toggle"
+        android:text="Switch On"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

@@ -1,3 +1,15 @@
+/**
+ * Android Studio Flashlight
+ * 
+ * Developed by: Amey Thakur & Mega Satish
+ * GitHub: https://github.com/Amey-Thakur | https://github.com/msatmod
+ * Repository: https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT
+ * 
+ * Description: App-level module configuration, dependencies, and build requirements.
+ * 
+ * Release Date: May 27, 2022
+ */
+
 apply plugin: 'com.android.application'
 
 android {
