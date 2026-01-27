@@ -10,7 +10,7 @@
 
   A specialized utility leveraging the Android Camera2 API for precise hardware LED control, featuring a toggle-based interface and industrial-grade torch functionality.
 
-  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Video Demo](https://youtu.be/83z8sHEzDC0)** &nbsp;·&nbsp; **[Download APK](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT/blob/main/Flashlight.apk?raw=true)**
+  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Video Demo](https://youtu.be/83z8sHEzDC0)** &nbsp;·&nbsp; **[Download APK](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT/blob/main/Flashlight.apk?raw=true)**
 
   <br>
 
@@ -102,6 +102,9 @@ The LED control engine is governed by strict **computational design patterns** e
 
 ```python
 ANDROID-STUDIO-FLASHLIGHT/
+│
+├── docs/                            # Technical Documentation
+│   └── SPECIFICATION.md             # Architecture & Design Specification
 │
 ├── Mega/                            # Attribution Assets
 │   ├── Filly.jpg                    # Companion (Filly)
