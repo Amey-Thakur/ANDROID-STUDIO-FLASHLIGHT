@@ -111,8 +111,8 @@ ANDROID-STUDIO-FLASHLIGHT/
 │   └── Mega.png                     # Profile Image (Mega Satish)
 │
 ├── screenshots/                     # Project Visualization Gallery
-│   ├── 01-Main.jpg                  # Primary Application Interface
-│   └── 02-Active.jpg                # Real-time Hardware LED Activation
+│   ├── Switch Off.jpg               # Primary Application Interface (Inactive)
+│   └── Switch On.jpg                # Real-time Hardware LED Activation (Active)
 │
 ├── Source Code/                     # Primary Application Layer
 │   └── Flashlight/                  # Android Studio Project Root
@@ -136,9 +136,9 @@ ANDROID-STUDIO-FLASHLIGHT/
 
 <div align="center">
 
-| **1. Primary Interface** | **2. Active Flashlight** |
+| **1. Switch Off** | **2. Switch On** |
 | :---: | :---: |
-| <img src="screenshots/01-Main.jpg" width="100%"> | <img src="screenshots/02-Active.jpg" width="100%"> |
+| <img src="screenshots/Switch%20Off.jpg" width="100%"> | <img src="screenshots/Switch%20On.jpg" width="100%"> |
 | *Clean and responsive UI design.* | *Real-time hardware LED activation.* |
 
 </div>
