@@ -182,9 +182,13 @@ cd ANDROID-STUDIO-FLASHLIGHT
 1. Click on **Locate** in the event log notification.
 2. The generated `app-debug.apk` will be available in the `app/build/outputs/apk/debug/` directory.
 
-> [!NOTE]
-> ### 📥 Direct Download
-> For immediate use without building from source, you can **[Download the pre-compiled Flashlight.apk](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT/blob/main/Flashlight.apk?raw=true)** directly from the repository root.
+> [!TIP]
+> ### Precision-Engineered Flashlight Deployment
+> 
+> Experience the deterministic hardware LED control and responsive toggle interface directly on your Android device by installing the optimized production build. This standalone APK enables immediate interaction with the Camera2 API and low-latency state logic without the need for a full Gradle build environment.
+>
+> **[Download Flashlight.apk](https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT/blob/main/Flashlight.apk?raw=true)**
+
 
 ---
 
