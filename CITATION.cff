@@ -11,3 +11,7 @@ title: "Android Studio Flashlight"
 version: 1.0.0
 date-released: 2022-05-27
 url: "https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT"
+identifiers:
+  - type: other
+    value: "2022-05-27"
+    description: "Date this repository was created on GitHub."

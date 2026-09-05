@@ -1,0 +1,33 @@
+# Android Studio Flashlight
+
+> A simple flashlight Android application developed in Java using Android
+> Studio.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering
+Licence: CC BY 4.0, attribution required
+Repository created: 27 May 2022
+
+## What is in this repository
+
+- Mega, 6 files
+- Source Code, 4118 files
+- docs, 1 file
+- screenshots, 2 files
+- Flashlight.apk
+
+## Subject terms
+
+android, android-app, android-application, android-development,
+android-studio, apk, camera2-api, flashlight, flashlight-app,
+hardware-interactions, java, material-design, mobile-app,
+mobile-application-development, torch
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/ANDROID-STUDIO-FLASHLIGHT
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
